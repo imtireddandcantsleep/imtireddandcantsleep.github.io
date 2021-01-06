@@ -1,0 +1,62 @@
+body {
+  background-image: url('city.background2.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+h1 {
+  color: white;
+  font-family: courier-new;
+  border: 8px solid rgba(36, 36, 36, 0.8);
+  padding: 30px;
+  margin: 75px 500px 0px;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+h2 {
+  color: white;
+  font-family: courier-new;
+  border: 8px solid rgba(36, 36, 36, 0.8);
+  padding: 30px;
+  margin: 75px 500px 0px;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+h3 {
+  color: white;
+  font-family: courier-new;
+  border: 8px solid rgba(36, 36, 36, 0.8);
+  padding: 30px;
+  margin: 75px 500px 0px;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+h4 {
+  color: white;
+  font-family: courier-new;
+  border: 8px solid rgba(36, 36, 36, 0.8);
+  padding: 30px;
+  margin: 75px 500px 0px;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+h5 {
+  color: white;
+  font-family: courier-new;
+  border: 8px solid rgba(36, 36, 36, 0.8);
+  padding: 30px;
+  margin: 75px 500px 0px;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+h6 {
+  color: white;
+  font-family: courier-new;
+  border: 8px solid rgba(36, 36, 36, 0.8);
+  padding: 30px;
+  margin: 75px 500px 0px;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+p {
+  color: white;
+  font-family: courier-new;
+  border: 8px solid rgba(199, 199, 199, 0.8);
+  padding: 30px;
+  margin: 0px 500px 25px;
+  background-color: rgba(255, 255, 255, 0.3);
+}
